@@ -9,3 +9,4 @@
 > npm install
 > npm start
 ```
+Then open localhost:8080/
